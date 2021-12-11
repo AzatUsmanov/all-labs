@@ -11,6 +11,7 @@ while (33 > a || a > 88) {
 printf("No\n");
 break;
 }
+  printf("  \n");
 printf("enter number v 10: \n");
 scanf_s("%d", &c);
 c = c » 19;
